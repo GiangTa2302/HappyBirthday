@@ -1,8 +1,8 @@
-const nameGirl = 'Thảo Mít';
-const giftUrl = 'https://www.facebook.com/profile.php?id=100010339236621';
+const nameGirl = 'Chang Chuối';
+const giftUrl = 'https://www.facebook.com/chang.bui.3975';
 const eventName = 'Chúc Mừng Sinh Nhật';
 const titleCard = 'Happy Birthday';
-const contentCard = 'Chúc Thảo sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với Thảo trong hôm nay và cả những ngày sau <3!';
+const contentCard = 'Chúc Chang sinh nhật tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với Chang trong hôm nay và cả những ngày sau <3!';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
